@@ -1,2 +1,4 @@
 # advent-2019
 These are my *quick &amp; dirty* answers to what I completed for advent 2019
+
+We had a friendly competition with our collegues using the challenges posed by https://adventofcode.com/.  We started December 1st at midnight and ended December 31st.  These answers are in no way, shape or form PRETTY nor do they represent what I would consider production code or algorithms.  They are purely attempts to answer the questions quickly in an effort to be the first to gain stars.  The various members decided to share their answers out of interest in seeing how we each tackled the various problems.
